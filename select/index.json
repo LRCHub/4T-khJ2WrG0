@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Clean.Clean up",
+  "base_artist": "コメティック",
+  "createdAt": "2025-12-06T02:23:06.830620Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Clean.Clean up",
+      "artist": "CoMETIK",
+      "has_synced": false,
+      "path": "select/01_Clean.Clean_up_CoMETIK.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Clean.Clean up (Off Vocal)",
+      "artist": "コメティック",
+      "has_synced": false,
+      "path": "select/02_Clean.Clean_up_(Off_Vocal)_コメティック.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Clean.Clean up",
+      "artist": "コメティック",
+      "has_synced": false,
+      "path": "select/pl_01_Clean.Clean_up_コメティック.txt"
+    }
+  ]
+}
